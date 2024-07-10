@@ -28,7 +28,7 @@ type tests struct {
 	route       string            // URL route to test against
 	errorResult map[string]string // Expected error result in case of errors
 }
-
+//this
 func init() {
 	fmt.Println("this is the unit testing of go signup and login")
 }
