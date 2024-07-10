@@ -39,4 +39,4 @@ jobs:
         fi
 
     - name: Start new Process in the background
-      run: make run
+      run: run
