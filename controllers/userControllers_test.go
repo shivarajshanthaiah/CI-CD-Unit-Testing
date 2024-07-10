@@ -542,8 +542,6 @@ func TestLogin(t *testing.T) {
 	}
 }
 
-//this
-
 func TestLoginUserError(t *testing.T) {
 	tests := []tests{
 		{
