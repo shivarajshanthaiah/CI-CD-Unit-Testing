@@ -21,7 +21,7 @@ import (
 	"gorm.io/gorm"
 )
 
-// tests struct defines a structure to hold individual test case details
+// tests struct defines a structure to hold individual test case details//
 type tests struct {
 	name        string            // Name of the test case
 	body        interface{}       // Input data (request body)
